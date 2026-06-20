@@ -47,3 +47,9 @@ Converts natural language into SQL queries using LangChain.
 ### 📊 Opportunity Scoring Engine
 
 Custom AI-based opportunity scoring solution for Dynamics 365.
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrunalraul&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrunalraul&layout=compact)
