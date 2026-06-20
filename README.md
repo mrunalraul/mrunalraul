@@ -53,3 +53,7 @@ Custom AI-based opportunity scoring solution for Dynamics 365.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrunalraul&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrunalraul&layout=compact)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrunalraul)
