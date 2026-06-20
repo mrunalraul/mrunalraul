@@ -75,3 +75,5 @@ Custom AI-based opportunity scoring solution for Dynamics 365.
 ![PowerAutomate](https://img.shields.io/badge/Power_Automate-blue?style=for-the-badge)
 
 ![CopilotStudio](https://img.shields.io/badge/Copilot_Studio-purple?style=for-the-badge)
+
+
