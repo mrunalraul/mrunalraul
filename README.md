@@ -61,3 +61,17 @@ Custom AI-based opportunity scoring solution for Dynamics 365.
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=mrunalraul).
+
+## 💻 Technologies
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge)
+
+![LangChain](https://img.shields.io/badge/LangChain-green?style=for-the-badge)
+
+![Dynamics365](https://img.shields.io/badge/Dynamics365-blue?style=for-the-badge)
+
+![PowerAutomate](https://img.shields.io/badge/Power_Automate-blue?style=for-the-badge)
+
+![CopilotStudio](https://img.shields.io/badge/Copilot_Studio-purple?style=for-the-badge)
