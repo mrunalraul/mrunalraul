@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mrunal Raul</h1>
 
-<!--
-**mrunalraul/mrunalraul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI/ML Developer | Dynamics 365 | Power Platform | Copilot Studio
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building AI Agents, CRM Automation and Enterprise Copilots
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- AI/ML Developer at Dynamisity
+- Working on Microsoft Dynamics 365 CRM
+- Building AI Agents using Copilot Studio
+- Developing Power Automate workflows
+- Interested in LLMs, RAG and Agentic AI
+
+---
+
+## 🛠 Tech Stack
+
+Python • OpenAI • LangChain • SQL
+
+Dynamics 365 • Power Automate • Copilot Studio
+
+Power Apps • Dataverse • Azure AI
+
+---
+
+## 📂 Featured Projects
+
+### 🤖 Dynamics 365 Copilot Sales Agent
+
+AI-powered CRM assistant for lead and opportunity management.
+
+### 🎤 Meeting Transcript Agent
+
+Summarizes Teams meeting transcripts and extracts action items.
+
+### 💬 SQL Chatbot
+
+Converts natural language into SQL queries using LangChain.
+
+### 📊 Opportunity Scoring Engine
+
+Custom AI-based opportunity scoring solution for Dynamics 365.
