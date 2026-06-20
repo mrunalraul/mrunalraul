@@ -57,3 +57,7 @@ Custom AI-based opportunity scoring solution for Dynamics 365.
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrunalraul)
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=mrunalraul).
